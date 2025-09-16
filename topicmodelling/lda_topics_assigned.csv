@@ -1,0 +1,101 @@
+id,text,dominant_topic
+79,IPv6 users cannot reach the upload endpoint,3
+4,Login form shows captcha error even for first attempt,2
+55,Audit logs missing entries for sensitive actions,0
+3,SSO login loops back to the sign-in page repeatedly,1
+72,Corporate proxy strips authorization headers,2
+32,Modal dialog scrolls behind the page on mobile,1
+89,Downloading XLSX sometimes returns a corrupted file,5
+18,Upgrade charged twice after plan switch,3
+49,Mobile push sounds even in do not disturb mode,4
+14,Tax calculation wrong for EU VAT on yearly plan,3
+42,SMS verification codes not delivered to some carriers,0
+43,Too many push notifications overwhelm users,3
+90,Annotations vanish after refreshing the report,2
+100,Stripe webhooks verify but events are not processed,1
+87,Report builder fails to save calculated fields,2
+68,Push token not refreshed after logout login,5
+56,Password policy allows weak phrases unintentionally,1
+31,Primary button is hard to notice due to low contrast,0
+65,Camera permission prompt repeats every launch,0
+37,Drag and drop cards snap back unexpectedly,5
+44,Digest email shows duplicate activities,2
+20,Download of past invoices fails with 500 error,2
+76,Firewall rules block webhook callbacks intermittently,3
+34,Dark mode makes links unreadable on side panel,4
+7,Login succeeds but dashboard is empty until refresh,1
+30,Cold starts make first request painfully slow,0
+39,Profile avatar upload area is not obvious,0
+64,Offline mode does not sync when back online,0
+6,Social login with Google throws 400 error for some domains,2
+59,JWT tokens not rotated frequently enough,4
+54,Role-based access control not limiting admin area,3
+24,Background jobs queue up and never complete,0
+45,Unsubscribe link works yet emails keep coming,5
+58,Webhooks accept requests without proper signature,2
+12,Invoice total includes duplicate line items for add-ons,1
+13,Refund processed but not reflected on card statement,1
+8,Frequent logout prompts after successful login,5
+99,Public API docs do not match current responses,3
+95,Jira integration duplicates tickets on sync,2
+88,Charts legend overlaps the plotted lines,5
+60,Exported data accessible with old shared links,4
+28,Caching layer misses cause repeated database hits,1
+1,Users cannot login after SSO redirect shows invalid token,2
+36,Pagination arrows are too small to click comfortably,5
+84,Date range filter ignored in monthly summary,1
+94,Zapier action fails due to missing required fields,0
+98,Grafana datasource shows outdated metrics,2
+27,API responses are inconsistent under load testing,3
+74,CDN returns stale assets after deploy,5
+50,Slack notifications stop when channel is private,3
+62,iOS build freezes on splash screen for some devices,4
+21,Dashboard loads slowly during peak hours with heavy CPU,4
+97,S3 integration does not honor server-side encryption,1
+9,MFA challenge not appearing after login on mobile,1
+16,Billing address change does not persist after save,1
+82,PDF report pagination splits charts awkwardly,5
+22,Search results take too long on large workspaces,0
+29,Batch processing stalls when memory pressure increases,0
+40,Table header sticks and hides the first row,0
+47,Mentions do not trigger any alert on desktop,1
+63,In-app purchases not recognized after reinstall,3
+2,Password reset link expires too quickly during login,5
+52,User session does not expire after password change,1
+11,Credit card payment gets declined without clear reason,3
+61,Android app crashes when switching tabs quickly,5
+75,DNS changes propagate slowly to some regions,4
+23,File uploads hang at 99 percent for big files,5
+26,Graphs render slowly on older laptops,4
+83,Scheduled report emails arrive without attachments,3
+66,Biometric unlock fails after OS update,0
+86,Sharing a saved report resets custom sort order,2
+85,Pivot exports lose currency formatting,0
+69,Deep links open browser instead of the app,4
+73,WiFi with captive portal disrupts OAuth callback,5
+53,Unusual login alert triggers for known IP addresses,1
+48,Calendar reminders fire at the wrong timezone,3
+80,SSE stream disconnects frequently on spotty links,4
+91,API returns 429 too many requests for normal usage,4
+51,2FA codes rejected even when entered correctly,0
+71,VPN blocks websocket connection for live updates,0
+46,Notification preferences reset after profile update,0
+93,Webhook retries without exponential backoff,3
+35,Tooltip covers the field user is trying to edit,1
+19,Payment gateway timeout during checkout causes anxiety,3
+41,Email notifications arrive hours late after events,3
+77,TLS handshake fails on older Android devices,4
+15,Coupon code applied yet full price charged at checkout,3
+10,Remember me checkbox not working on login,1
+96,Salesforce mapping loses custom attributes,2
+57,IP allowlist fails when using company VPN,0
+81,Exported CSV has mismatched columns and headers,2
+25,Latency spikes when exporting large CSV reports,0
+92,OAuth client secret rotation breaks integration,5
+70,Gesture navigation conflicts with drawer menu,0
+78,Rate limiting triggers false positives on retries,4
+67,Embedded webview zooms unexpectedly on forms,5
+38,Form labels overlap with placeholder text,2
+33,Date picker resets value when switching months,1
+17,Subscription renewal date does not match invoice date,1
+5,Two different login buttons cause confusion on homepage,1
